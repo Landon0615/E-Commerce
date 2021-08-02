@@ -4,7 +4,7 @@ This is a back end application that allows the user to create, update and delete
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Walkthrough Video](#Walkthrough Video)
+* [Video](#Video)
 * [Tests](#tests)
 * [Questions](#questions)
 ### Installation:
@@ -15,7 +15,7 @@ Must use MySql and recommend using Postman to alter data in the database.
 ### License:
 This project is licensed under:
 MIT
-### Walkthrough Video:
+### Video:
 ![video](https://drive.google.com/file/d/18lbGCLn9xKgOAggrB_eQ9QLnmqxRojYM/view)
 ### Tests:
 In order to test open the console and run the following:
