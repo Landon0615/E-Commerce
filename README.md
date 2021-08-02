@@ -16,7 +16,7 @@ Must use MySql and recommend using Postman to alter data in the database.
 This project is licensed under:
 MIT
 ### Video:
-![video](https://drive.google.com/file/d/18lbGCLn9xKgOAggrB_eQ9QLnmqxRojYM/view)
+https://drive.google.com/file/d/18lbGCLn9xKgOAggrB_eQ9QLnmqxRojYM/view
 ### Tests:
 In order to test open the console and run the following:
 ```npm test```
